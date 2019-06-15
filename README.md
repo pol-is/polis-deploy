@@ -71,4 +71,37 @@ Please help us out as you go in setting things up by improving the deployment co
 * PRs improving either documentation or deployment code are welcome, but please submit an issue to discuss before making any substantial code changes
 * After you've made an issue, you can try to chat folks up at https://gitter.im/pol-is/polisDeployment
 
+## Related Resources
 
+This section is for code and data resources related to pol.is.
+
+- [**`audreyt/polis-tally`.**][polis-tally] Utility tool for converting
+  zipped pol.is exports into a simpler CSV/JSON format.
+- [**`OpenSourcePolitics/decidim-efb`.**][decidim-module] A module for
+  intergrating pol.is into the Decidim participatory democracy framework.
+- [**`patcon/polis-api-proxy`.**][api-proxy] API proxy for experimenting
+  with different API design choices.
+- [**`CivicTechTO/MyDem0cracy.ca-site`.**][mydem0cracy] A sample
+  micro-site for wrapping a single Pol.is conversation.
+- [**`patcon/trump-polis-twitter-bot`.**][twitter-bot] Twitter bot that creates and
+  links a Pol.is conversation for each tweet by a specific user.
+- [**`ForaDoEixo/wp-pol-is`.**][wp-plugin] Wordpress plugin for
+  embedding Pol.is conversations.
+- [**`colinmegill/conference`.**][conf-site] A sample mini-site for gathering
+  reactions during multi-session live event.
+- [**`padagraph/vTaiwanAirBnbImporter`.**][padagraph-importer]
+  Experimental importer for bringing Pol.is export data into
+[padagraph.io](http://padagraph.io).
+- [**`conversa-app/conversa.cc`.**][conversa] An
+  unofficial, experimental Pol.is frontend client built on the Ruby on
+  Rails framework.
+
+   [polis-tally]: https://github.com/audreyt/polis-tally
+   [decidim-module]: https://github.com/OpenSourcePolitics/decidim-efb
+   [api-proxy]: https://github.com/patcon/polis-api-proxy
+   [mydem0cracy]: https://github.com/CivicTechTO/MyDem0cracy.ca-site
+   [twitter-bot]: https://github.com/patcon/trump-polis-twitter-bot
+   [wp-plugin]: https://github.com/ForaDoEixo/wp-pol-is
+   [conf-site]: https://github.com/colinmegill/conference
+   [padagraph-importer]: https://github.com/padagraph/vTaiwanAirBnbImporter
+   [conversa]: https://github.com/conversa-app/conversa.cc
