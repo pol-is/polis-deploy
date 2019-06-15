@@ -58,7 +58,8 @@ TODO Compile complete starter template somewhere in this repo...
 ## Docker deployment
 
 * There's a docker-compose.yml file in https://github.com/pol-is/polisServer/blob/master/docker-compose.yml which has some instructions on running a partial dev environment with docker-compose.
-* Some one else did some dockerization work here https://github.com/uzzal2k5/polis_container.
+* Outside contributor [**@uzzal2k5**](https://github.com/uzzal2k5) has
+  created some unofficial dockerization work at [`uzzal2k5/polis_container`][polis-container].
 
 Ultimately, it would be great if all of this content was merged into this `polis-deploy` repo.
 
@@ -95,6 +96,8 @@ This section is for code and data resources related to pol.is.
 - [**`conversa-app/conversa.cc`.**][conversa] An
   unofficial, experimental Pol.is frontend client built on the Ruby on
   Rails framework.
+- [**`uzzal2k5/polis_container`.**][polis-container] Alternative docker
+  setup using Docker Swarm.
 
    [polis-tally]: https://github.com/audreyt/polis-tally
    [decidim-module]: https://github.com/OpenSourcePolitics/decidim-efb
@@ -105,3 +108,4 @@ This section is for code and data resources related to pol.is.
    [conf-site]: https://github.com/colinmegill/conference
    [padagraph-importer]: https://github.com/padagraph/vTaiwanAirBnbImporter
    [conversa]: https://github.com/conversa-app/conversa.cc
+   [polis-container]: https://github.com/uzzal2k5/polis_container
