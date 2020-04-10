@@ -96,6 +96,7 @@ This section is for code and data resources related to pol.is.
 - [**`conversa-app/conversa.cc`.**][conversa] An
   unofficial, experimental Pol.is frontend client built on the Ruby on
   Rails framework.
+  - [**`misscs/fennecs`.**][fennecs] New Pol.is interface sketches.
 - [**`uzzal2k5/polis_container`.**][polis-container] Alternative docker
   setup using Docker Swarm.
 
@@ -109,3 +110,4 @@ This section is for code and data resources related to pol.is.
    [padagraph-importer]: https://github.com/padagraph/vTaiwanAirBnbImporter
    [conversa]: https://github.com/conversa-app/conversa.cc
    [polis-container]: https://github.com/uzzal2k5/polis_container
+   [fennecs]: https://github.com/misscs/fennecs
