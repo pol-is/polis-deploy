@@ -1,3 +1,8 @@
+
+## NOTE: This separate project has been archived in favor of the monorepo & Docker setup at https://github.com/pol-is/polis.
+
+<br/>
+
 # polisDeployment
 
 If you're interested in deploying Polis, or setting up a development environment, you've come to the right place.
